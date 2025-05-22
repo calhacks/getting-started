@@ -1,1 +1,27 @@
-# 👋 Welcome to Cal Hacks - we can't wait to hack with you!
+# 👋 Welcome to Cal Hacks!
+
+We can't wait to hack with you. Now let's get you going!
+## I want to build a website…
+
+1. [Make your first website from scratch](https://workshops.hackclub.com/personal_website/)
+2. [Get started with Socket.io by building a chat app](https://socket.io/get-started/chat)
+3. [Getting Started with Rails — Ruby on Rails Guides](https://guides.rubyonrails.org/getting_started.html)
+4. [App Router & Next.js: Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
+## I want to build a game…
+
+1. [Getting started with KAPLAY](https://kaplayjs.com/guides/install/) (web-based game engine)
+2. [p5play](https://p5play.org/) - Javascript-based web game engine.
+## I want to build with a ML model or an LLM…
+
+1. [Classification with Teachable Machine](https://workshops.hackclub.com/teachable_machine/)
+2. [Pose detection with ml5.js](https://docs.ml5js.org/)
+3. [Image classification with TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
+4. [Getting started with Claude](https://docs.anthropic.com/en/docs/get-started) 
+## I want to create art…
+
+1. [p5.js](https://p5js.org/) for graphics and visual art
+2. [Sonic Pi](https://sonic-pi.net/) for music
+3. [Tone.js](https://tonejs.github.io/) for more music - in the browser!
+## I want to build an app.
+
+1. 
